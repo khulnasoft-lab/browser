@@ -1,4 +1,4 @@
-module github.com/cli/browser
+module github.com/khulnasoft-lab/browser
 
 go 1.21
 
