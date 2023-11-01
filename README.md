@@ -12,7 +12,7 @@ This fork adds:
 ## Usage
 
 ``` go
-import "github.com/cli/browser"
+import "github.com/khulnasoft-lab/browser"
 
 err = browser.OpenURL(url)
 err = browser.OpenFile(path)
