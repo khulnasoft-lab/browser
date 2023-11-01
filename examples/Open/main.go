@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cli/browser"
+	"github.com/khulnasoft-lab/browser"
 )
 
 func usage() {
